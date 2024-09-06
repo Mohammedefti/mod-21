@@ -28,7 +28,7 @@ function sumOfEvenNumbers(numbers) {
             sum+=number;
         }
     }
-return sum;
+// return sum;
 }
 
 const sum = sumOfEvenNumbers(numbers);
